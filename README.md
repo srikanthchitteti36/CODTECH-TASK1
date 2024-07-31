@@ -33,4 +33,6 @@ Debugging: Debug any issues encountered during simulation to ensure correct circ
 7. Conclusion
 Through this project, you will gain hands-on experience in designing and simulating basic digital logic circuits using Verilog. It will enhance your understanding of digital logic concepts and prepare you for more complex VLSI design tasks involving FPGA or ASIC implementations.
 
-OUTPUT:C:\Users\Hari\OneDrive\图片\Screenshots\CODTECH TASK1.png
+OUTPUT:
+![CODTECH TASK1](https://github.com/user-attachments/assets/517d5a95-b23d-4589-8a5c-26e3bee169c0)
+
